@@ -4,4 +4,10 @@ scikit-learn
 dvc
 nltk
 lightgbm
+mlflow
+pyyaml
+dvc[s3]
+awscli
+matplotlib
+seaborn
 -e .

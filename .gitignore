@@ -91,4 +91,3 @@ target/
 /tfidf_vectorizer.pkl
 
 myenv/
-/experiment_info.json
